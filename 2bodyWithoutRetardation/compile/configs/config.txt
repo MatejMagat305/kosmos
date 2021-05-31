@@ -1,0 +1,10 @@
+[ PositionX = 0, PositionY = -0.09914899075477633, VelocityX = 1, VelocityY = 0, Mass = 1]
+[ PositionX = 0, PositionY = 0.09914899075477633, VelocityX = -1, VelocityY = 0, Mass = 1]
+Epsilon = 1e-05
+Centerofmomentumframe = false
+Beginsuitablescale = true
+Scale = 0.03
+G = 1
+Name = basic(1)
+Offset = 100
+Howmanyturn = 100

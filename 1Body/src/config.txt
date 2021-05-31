@@ -1,0 +1,16 @@
+PositionX          = -0.25
+PositionY          = -0.2
+VelocityX          = .40
+VelocityY          = -.10
+StepsForward       = 1
+Scale              = 1
+Epsilon            = 0.0001
+SpeedScaledPercent = 100
+AutoScale          = true
+FixedScale         = false
+ForceCircularOrbit = false
+FixedCentre        = false
+WriteExcelFiles    = true
+RememberWholeOrbit = true
+HowManyPositionsBack   = 10000
+SpeedMovePixel         = 25

@@ -48,5 +48,5 @@ func LoadOrigin() {
 func SaveOrigin(fileEuler string, euler *eu.Euler) {
 	Create()
 	jsonEuler, _ := json.Marshal(&euler)
-	_ = ioutil.WriteFile(fileEuler, jsonEuler, 7777)
+	_ = ioutil.WriteFile(fileEuler, jsonEuler, 0666)
 }

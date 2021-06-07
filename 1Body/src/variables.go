@@ -16,7 +16,7 @@ var (
 	eu                       *euler
 	eulers                   []*euler
 	play, drawLine           =false, true
-	r, rSun                  =4,4
+	r, rSun                  =5,10
 	rHalf, rSunHalf          =r/2, rSun/2
 	width, height            =500.0,500.0
 	centerX, centerY         = width/2,height/2
